@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">你好！</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="text1">贾宝玉</string>
+    <string name="text2">个性签名</string>
+    <string name="text3">嘲贾宝玉二句</string>
+    <string name="text4">作诗一句</string>
+    <string name="describe1">This is JiaBaoYu\'s Picture containing colors of black,yelloande white</string>
+    <string name="introduction">神瑛侍者转世真身，荣国府贾政与王夫人所生的次子，贾府通称宝二爷。</string>
+</resources>
